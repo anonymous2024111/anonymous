@@ -1,0 +1,4 @@
+MagicsphereBlock_cmake
+MagicsphereGAT_cmake
+MagicsphereGCN_cmake
+MagicsphereMRabbit_cmake

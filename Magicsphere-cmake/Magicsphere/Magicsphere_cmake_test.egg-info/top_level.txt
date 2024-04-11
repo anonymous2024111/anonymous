@@ -1,0 +1,2 @@
+MagicsphereBlock_cmake_test
+MagicsphereMRabbit_cmake_test

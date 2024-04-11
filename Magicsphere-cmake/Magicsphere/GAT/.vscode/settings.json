@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cu": "cuda-cpp",
+        "*.cpp": "cpp",
+        "cmath": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}

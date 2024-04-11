@@ -1,0 +1,7 @@
+GESpMM_cmake
+GNNAdvisor_cmake
+GNNAdvisor_v2_cmake
+Rabbit_cmake
+TCGNN_cmake
+TCGNN_v2_cmake
+cuSPARSE_cmake

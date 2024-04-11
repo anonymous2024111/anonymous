@@ -1,0 +1,10 @@
+setup.py
+./Block/example.cpp
+./GAT/mGAT.cpp
+./GAT/mGATKernel.cu
+./GCN/src/mGCN.cpp
+./MRabbit/reorder.cpp
+Magicsphere.egg-info/PKG-INFO
+Magicsphere.egg-info/SOURCES.txt
+Magicsphere.egg-info/dependency_links.txt
+Magicsphere.egg-info/top_level.txt

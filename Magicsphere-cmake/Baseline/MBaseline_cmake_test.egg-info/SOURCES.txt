@@ -1,0 +1,8 @@
+setup.py
+setup_test.py
+./cuSPARSE/spmm_csr.cpp
+./cuSPARSE/spmm_csr_kernel.cu
+MBaseline_cmake_test.egg-info/PKG-INFO
+MBaseline_cmake_test.egg-info/SOURCES.txt
+MBaseline_cmake_test.egg-info/dependency_links.txt
+MBaseline_cmake_test.egg-info/top_level.txt
