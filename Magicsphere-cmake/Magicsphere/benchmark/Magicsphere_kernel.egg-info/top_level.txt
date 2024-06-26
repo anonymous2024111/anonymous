@@ -1,2 +1,0 @@
-MagicsphereGAT_kernel
-MagicsphereGCN_kernel

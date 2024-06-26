@@ -1,4 +1,0 @@
-GESpMM_kernel
-GNNAdvisor_v2_kernel
-TCGNN_kernel
-cuSPARSE_kernel

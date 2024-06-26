@@ -1,9 +1,0 @@
-setup.py
-./Block/example.cpp
-./GAT/src/mGAT.cpp
-./GCN/src/mGCN.cpp
-./LRabbitAll2/reorder.cpp
-Magicsphere_cmake.egg-info/PKG-INFO
-Magicsphere_cmake.egg-info/SOURCES.txt
-Magicsphere_cmake.egg-info/dependency_links.txt
-Magicsphere_cmake.egg-info/top_level.txt

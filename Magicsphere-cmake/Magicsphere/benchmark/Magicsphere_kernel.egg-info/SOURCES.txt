@@ -1,7 +1,0 @@
-setup.py
-./GAT-benchmark/src/benchmark.cpp
-./GCN-benchmark/src/benchmark.cpp
-Magicsphere_kernel.egg-info/PKG-INFO
-Magicsphere_kernel.egg-info/SOURCES.txt
-Magicsphere_kernel.egg-info/dependency_links.txt
-Magicsphere_kernel.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-mGAT.cpp
-mGATKernel.cu
-setup.py
-mGAT.egg-info/PKG-INFO
-mGAT.egg-info/SOURCES.txt
-mGAT.egg-info/dependency_links.txt
-mGAT.egg-info/top_level.txt
