@@ -17,7 +17,7 @@ Conda environments need to be set up on machines with H100 PCIe and RTX4090 GPUs
 ```
 conda create -n env_name python=3.9
 ```
-+ 2.1.3 Install **`Pytorch`** **[(Toturial)](https://pytorch.org/get-started/locally/)**: 
++ 2.1.3 Install **`PyTorch`** **[(Toturial)](https://pytorch.org/get-started/locally/)**: 
 ```
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia 
 ```
